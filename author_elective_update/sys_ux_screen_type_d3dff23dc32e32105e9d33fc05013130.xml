@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="DELETE">
+        <description/>
+        <name>NeedIt Application 2</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-21 00:05:44</sys_created_on>
+        <sys_id>d3dff23dc32e32105e9d33fc05013130</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Application 2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_screen_type_d3dff23dc32e32105e9d33fc05013130</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-21 00:05:44</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="DELETE" query="documentkey=d3dff23dc32e32105e9d33fc05013130"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>24c662f11bfeb1506a85eb9b2d4bcbee</instance_id>
+        <instance_name>dev228986</instance_name>
+        <name>sys_ux_screen_type_d3dff23dc32e32105e9d33fc05013130</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>NeedIt Application 2</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-01-21 00:05:44</sys_created_on><sys_id>d3dff23dc32e32105e9d33fc05013130</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Application 2</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_screen_type_d3dff23dc32e32105e9d33fc05013130</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-01-21 00:05:44</sys_updated_on></sys_ux_screen_type><sys_translated_text action="delete_multiple" query="documentkey=d3dff23dc32e32105e9d33fc05013130"/></record_update>]]></payload>
+        <payload_hash>-683602189</payload_hash>
+        <record_name>NeedIt Application 2</record_name>
+        <reverted_from/>
+        <source>dc6b0338c35232105e9d33fc0501318f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-21 00:05:44</sys_created_on>
+        <sys_id>13dff23dc32e32105e9d33fc05013133</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19bdddf1afa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-21 00:05:44</sys_updated_on>
+        <type>UX Screen Collection</type>
+        <update_guid>57dff23d7d2e32109bfadbd911a0dd32</update_guid>
+        <update_guid_history>57dff23d7d2e32109bfadbd911a0dd32:-683602189</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-21 00:09:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen_type">sys_ux_screen_type</sys_db_object>
+        <sys_id>33548ed384084f8695e99ffd47e338c4</sys_id>
+        <sys_metadata>d3dff23dc32e32105e9d33fc05013130</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Application 2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_type_d3dff23dc32e32105e9d33fc05013130</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_type_d3dff23dc32e32105e9d33fc05013130">13dff23dc32e32105e9d33fc05013133</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-21 00:09:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
